@@ -1,4 +1,3 @@
-
 # Fireballs the game
 
 ![alt text][logo]
